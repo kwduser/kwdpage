@@ -708,5 +708,10 @@ nav#footer p {
 #footer i.fa:hover {
 	color: #F4D03F;
 }
-
-
+#demo{
+	padding: 80px 0;
+	background: linear-gradient(to bottom, #525252 0%, #232323 100%);
+}
+#demo h2{
+	color:#ddd;
+}
